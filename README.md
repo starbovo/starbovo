@@ -1,4 +1,4 @@
-- 😼 可以叫我小赵，NJUST EE专业大四在读
-- 😎 涉猎很多但都浅尝辄止，标签大概是C/C++/单片机/arduino/dsp/verilog
+- 😼 可以叫我小赵，就读于HKUST ELEG program(24fall)，本科NJUST EE(IOT)
+- 😎 涉猎很多但都浅尝辄止，标签大概是C/C++/单片机/arduino/dsp/FPGA/verilog
 - 😙 欢迎跟俺交朋友捏
 - 📫 QQ：1598718223
